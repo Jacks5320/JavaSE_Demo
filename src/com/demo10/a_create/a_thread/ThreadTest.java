@@ -1,4 +1,4 @@
-package com.demo10.create.thread;
+package com.demo10.a_create.a_thread;
 
 /**
  * 第一种实现多线程的方法

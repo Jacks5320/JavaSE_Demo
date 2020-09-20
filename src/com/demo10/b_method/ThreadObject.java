@@ -1,4 +1,4 @@
-package com.demo10.method;
+package com.demo10.b_method;
 /**
     1. 获取当前线程对象，出现在哪个线程中就获取哪个线程对象
         static Thread   currentThread()

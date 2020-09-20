@@ -1,4 +1,4 @@
-package com.demo10.create.runnable;
+package com.demo10.a_create.b_runnable;
 
 /**
  * 第二种定义多线程方法：

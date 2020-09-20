@@ -1,4 +1,4 @@
-package com.demo10.method;
+package com.demo10.b_method;
 
 /**
  * 线程阻塞方法
